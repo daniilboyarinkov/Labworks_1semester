@@ -1,0 +1,1 @@
+﻿namespace LabWork_7_ { class Loader : Employee { } } 
